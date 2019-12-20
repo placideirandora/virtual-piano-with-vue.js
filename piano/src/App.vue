@@ -2,12 +2,18 @@
   <div class="app">
     <img alt="Piano Logo" src="./assets/icons/keyboard.svg" class="app__logo">
     <h1 class="app__title">Virtual Piano</h1>
+    <Piano />
   </div>
 </template>
 
 <script>
+import Piano from './components/Piano';
+
 export default {
   name: 'app',
+  components: {
+    Piano
+  }
 }
 </script>
 
