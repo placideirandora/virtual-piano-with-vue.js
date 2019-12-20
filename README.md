@@ -1,23 +1,32 @@
 # PIANO (VUE.JS)
 A front-end web application for playing piano musical instrument.
 
-## Project setup
+## GETTING STARTED
+
+### Clone The Project
+
 ```
-npm install
+$ git clone https://github.com/placideirandora/piano-with-vue.js
 ```
 
-### Compiles and hot-reloads for development
+### Install Required Dependencies
+
 ```
-npm run serve
+$ npm install
 ```
 
-### Compiles and minifies for production
+### Start The Development Server
+
 ```
-npm run build
+$ npm run serve
 ```
 
-### Lints and fixes files
+### Start The Production Server 
+
 ```
-npm run lint
+$ npm run build
 ```
 
+```
+$ npm run serve
+```
