@@ -54,20 +54,21 @@ export default {
             display: flex; 
         }
 
-        &__key {}
+        &__key {
+            height: calc(var(--width) * 4);
+            width: var(--width);
+        }
 
         &__key--white {
-            width: 100px;
-            height: 400px;
+            --width: 100px;
             background: #E9F0F2;
             border: 1px solid #2c3e50;
         }
 
         &__key--black {
-            width: 60px;
-            height: 240px;
+            --width: 60px;
             background: #000;
-            margin: 0 -30px;
+            margin: 0 calc(var(--width) / -2);
             z-index: 2;
         }
     }
