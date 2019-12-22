@@ -34,8 +34,8 @@
 export default {
   name: "Piano",
   methods: {
-    playNote(key) {
-      const noteAudio = document.querySelector(key);
+    playNote(note) {
+      const noteAudio = document.querySelector(note);
 
       noteAudio.currentTime = 0;
       noteAudio.play();
