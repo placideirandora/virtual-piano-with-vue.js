@@ -1,4 +1,4 @@
-# PIANO (VUE.JS)
+# VIRTUAL PIANO (VUE.JS)
 A front-end web application for playing piano musical instrument.
 
 ## GETTING STARTED
