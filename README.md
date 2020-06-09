@@ -6,7 +6,7 @@ A front-end web application for playing piano musical instrument.
 ### Clone The Project
 
 ```
-$ git clone https://github.com/placideirandora/virtual-piano-with-vue.js
+$ git clone https://github.com/placiderapson/virtual-piano-with-vue.js
 ```
 
 ### Install Required Dependencies
