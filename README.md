@@ -1,4 +1,4 @@
-# VIRTUAL PIANO (VUE.JS)
+# VIRTUAL PIANO (VUE)
 A front-end web application for playing piano musical instrument.
 
 ## GETTING STARTED
@@ -6,7 +6,7 @@ A front-end web application for playing piano musical instrument.
 ### Clone The Project
 
 ```
-$ git clone https://github.com/placiderapson/virtual-piano-with-vue.js
+$ git clone https://github.com/placiderapson/virtual-piano-with-vue
 ```
 
 ### Install Required Dependencies
